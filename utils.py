@@ -46,7 +46,7 @@ def change_number_card():
     return operation_client
 
 
-print(change_number_card()[0])
+
 
 
 
